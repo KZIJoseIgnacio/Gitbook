@@ -1,6 +1,6 @@
 # Trayectoria
 
-Actualmente he destinado mi tiempo a seguir la ruta de penetration tester.
+Actualmente he destinado mi tiempo a seguir la ruta de penetration tester, si necesitas una ruta esto te servirá.
 
 * [x] eJPT
 * [ ] CEH
@@ -11,6 +11,7 @@ Actualmente he destinado mi tiempo a seguir la ruta de penetration tester.
 De momento, además de aquellas certificaciones validadas por el mercado, he aprovechado la oportunidad de lograr las siguientes certificaciones que fueron de gran ayuda como conocimiento previo.
 
 * [x] NGD Linux
+* [x] AWS CCP
 * [x] PCAP Python
 * [x] Introducción a la Seguridad Cibernética
 * [x] Cybersecurity Essentials
@@ -20,6 +21,7 @@ De momento, además de aquellas certificaciones validadas por el mercado, he apr
 * [x] HTML And CSS
 * [x] Auditor Líder ISO 27001
 * [x] Implementador ISO 27001
+* [x] Auditoria a la Ciberseguridad
 
 
 

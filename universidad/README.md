@@ -1,4 +1,8 @@
-# Conocimiento
+---
+description: Universidad tecnológica de Chile Inacap
+---
+
+# Universidad
 
 La ciberseguridad es el conjunto de medidas, técnicas y prácticas diseñadas para proteger los sistemas informáticos, las redes, los dispositivos y los datos de posibles amenazas, ataques y vulnerabilidades. Su objetivo principal es garantizar la confidencialidad, la integridad y la disponibilidad de la información, así como prevenir el acceso no autorizado, el robo de datos y los daños a los sistemas.
 
